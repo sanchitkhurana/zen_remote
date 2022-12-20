@@ -1,2 +1,4 @@
 tree
-seeds
+animals
+chicken
+mutton
